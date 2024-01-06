@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import "./contact.css";
 import Logo from "../../Assets/PalaceOfTriumphlogotransparente.png";
 import { FaBars } from "react-icons/fa6";
-import { motion, useInView } from "framer-motion";
+import { motion } from "framer-motion";
 import ContactBG from "../../Assets/contact-bg.png";
 import emailjs from "@emailjs/browser";
 
