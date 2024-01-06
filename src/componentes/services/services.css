@@ -1,0 +1,942 @@
+#universal2 {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(
+      90deg,
+      rgba(2, 0, 36, 1) 0%,
+      rgba(9, 9, 121, 1) 35%,
+      rgba(1, 16, 19, 1) 100%
+    );
+  }
+  
+  #header2 {
+    width: 100%;
+    background: rgb(2, 0, 36);
+    background: linear-gradient(
+      90deg,
+      rgba(2, 0, 36, 1) 0%,
+      rgba(9, 9, 121, 1) 35%,
+      rgba(1, 16, 19, 1) 100%
+    );
+  }
+  
+  #menu2 {
+    padding-top: 0px;
+    padding-bottom: -70px;
+  }
+  
+  .menu-icon2 {
+    color: #fff;
+    font-size: 28px;
+  }
+  
+  #B-Menu2 {
+    border: 0;
+  }
+  
+  .spanS {
+    border: 0;
+  }
+  
+  .backg-menu2 {
+    border: 0;
+  }
+  
+  .navbar-toggler {
+    color: white;
+    border: 1px solid white;
+    margin-right: 5px;
+  }
+  
+  .navbar-toggler::before,
+  .navbar-toggler::after {
+    border: 1px solid white;
+  }
+  
+  .navbar-toggler:hover {
+    border: 1px solid white;
+  }
+  
+  .offcanvas-title {
+    color: rgb(255, 255, 255);
+    color: linear-gradient(
+      90deg,
+      rgba(255, 255, 255, 1) 0%,
+      rgba(219, 219, 219, 1) 35%,
+      rgba(101, 113, 115, 1) 100%
+    );
+  }
+  
+  .navbar-nav {
+    margin-top: 0px;
+    padding-top: 0px;
+    margin-bottom: -0px;
+    margin-right: 50px;
+    padding-right: 30px;
+    padding-bottom: 0px;
+  }
+  
+  #nav-item-divisor {
+    width: 1px;
+    color: rgb(255, 255, 255);
+    color: linear-gradient(
+      90deg,
+      rgba(255, 255, 255, 1) 0%,
+      rgba(219, 219, 219, 1) 35%,
+      rgba(101, 113, 115, 1) 100%
+    );
+  }
+  
+  #Botoes-Menu-2 {
+    z-index: 0;
+    background: transparent;
+    color: rgb(255, 255, 255);
+    color: linear-gradient(
+      90deg,
+      rgba(255, 255, 255, 1) 0%,
+      rgba(219, 219, 219, 1) 35%,
+      rgba(101, 113, 115, 1) 100%
+    );
+  
+    text-decoration: none;
+    font-size: 1em;
+    margin-top: 0px;
+    padding-top: 0px;
+    margin-right: 20px;
+    margin-left: 10px;
+    padding-right: 59px;
+    padding-left: 10px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+  }
+  
+  #img-logo2 {
+    border: 0;
+  }
+  
+  #Logo2 {
+    background: transparent;
+    margin-right: 10px;
+    margin-left: 170px;
+    padding-left: 10px;
+  }
+  
+  .navbar-brand {
+    margin-left: 85px;
+    padding-left: -5px;
+  }
+  
+  #image-BG {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  #Services-Title {
+    color: #fff;
+    overflow: hidden;
+  }
+  
+  #Service-Paragraph {
+    color: #fff;
+  }
+  
+  #E-button {
+    background: rgb(199, 180, 150);
+    color: rgb(2, 0, 36);
+  }
+  
+  .Exp-Link {
+    background: rgb(199, 180, 150);
+    color: rgb(2, 0, 36);
+    text-decoration: none;
+  }
+  
+  #div-consult {
+    width: 50%;
+    background: rgb(2, 0, 36);
+    background: linear-gradient(
+      90deg,
+      rgba(2, 0, 36, 1) 0%,
+      rgba(9, 9, 121, 1) 35%,
+      rgba(1, 16, 19, 1) 100%
+    );
+  }
+  
+  #div-consult h2 {
+    color: rgb(199, 180, 150);
+    color: rgba(199, 180, 150, 1) 0%, rgba(231, 212, 202, 1) 35%,
+      rgba(210, 198, 159, 1) 100%;
+    font-size: 2.3rem;
+  }
+  
+  #div-consult p {
+    color: rgb(199, 180, 150);
+    color: rgba(199, 180, 150, 1) 0%, rgba(231, 212, 202, 1) 35%,
+      rgba(210, 198, 159, 1) 100%;
+  
+    --max-lines: 8;
+    --line-height: 1.4;
+    height: calc(var(--max-lines) * 1em * var(--line-height));
+    line-height: var(--line-height);
+    overflow: hidden;
+  }
+  
+  #consultory {
+    width: 375px;
+    min-width: 7%;
+    height: 100%;
+    border-radius: 21px 21px 0 0;
+    background: rgb(199, 180, 150);
+    background: linear-gradient(
+      90deg,
+      rgba(199, 180, 150, 1) 0%,
+      rgba(231, 212, 202, 1) 35%,
+      rgba(210, 198, 159, 1) 100%
+    );
+    margin-top: 5%;
+  }
+  
+  #consultory h4 {
+    padding-top: 20px;
+    text-decoration: underline;
+    color: rgb(2, 0, 36);
+  }
+  
+  #consultory ul {
+    color: rgb(2, 0, 36);
+    padding-right: 45px;
+  }
+  
+  #consultory ul li {
+    padding-top: 25px;
+  }
+  
+  #consultory .li2 {
+    padding-top: 45px;
+  }
+  
+  #consultory .li3 {
+    padding-top: 45px;
+  }
+  
+  #consultory .li4 {
+    padding-top: 45px;
+  }
+  
+  #consultory .li5 {
+    padding-top: 45px;
+  }
+  
+  #div-corpanaly {
+    width: 50%;
+    background: rgb(2, 0, 36);
+    background: linear-gradient(
+      90deg,
+      rgba(2, 0, 36, 1) 0%,
+      rgba(9, 9, 121, 1) 35%,
+      rgba(1, 16, 19, 1) 100%
+    );
+  }
+  
+  #div-corpanaly h2 {
+    color: rgb(199, 180, 150);
+    color: rgba(199, 180, 150, 1) 0%, rgba(231, 212, 202, 1) 35%,
+      rgba(210, 198, 159, 1) 100%;
+    font-size: 2.3rem;
+  }
+  
+  #div-corpanaly p {
+    color: rgb(199, 180, 150);
+    color: rgba(199, 180, 150, 1) 0%, rgba(231, 212, 202, 1) 35%,
+      rgba(210, 198, 159, 1) 100%;
+    font-size: 1.2rem !important;
+    --max-lines: 8;
+    --line-height: 1.4;
+    height: calc(var(--max-lines) * 1em * var(--line-height));
+    line-height: var(--line-height);
+    overflow: hidden;
+  }
+  
+  #CorporateAnalysis {
+    width: 385px;
+    min-width: 9%;
+    height: 100%;
+    border-radius: 21px 21px 0 0;
+    background: rgb(199, 180, 150);
+    background: linear-gradient(
+      90deg,
+      rgba(199, 180, 150, 1) 0%,
+      rgba(231, 212, 202, 1) 35%,
+      rgba(210, 198, 159, 1) 100%
+    );
+  
+    overflow: hidden;
+    margin-top: 3%;
+  }
+  
+  #CorporateAnalysis h4 {
+    padding-top: 20px;
+    text-decoration: underline;
+    color: rgb(2, 0, 36);
+  }
+  
+  #CorporateAnalysis ul {
+    color: rgb(2, 0, 36);
+    padding-right: 45px;
+  }
+  
+  #CorporateAnalysis ul li {
+    padding-top: 20px;
+  }
+  
+  #mag-cont {
+    margin-top: -16px;
+    background: rgb(2, 0, 36);
+    background: linear-gradient(
+      90deg,
+      rgba(2, 0, 36, 1) 0%,
+      rgba(9, 9, 121, 1) 35%,
+      rgba(1, 16, 19, 1) 100%
+    );
+  }
+  
+  #div-Management-Control {
+    width: 100%;
+  }
+  
+  #div-Management-Control h2 {
+    color: rgb(199, 180, 150);
+    color: rgba(199, 180, 150, 1) 0%, rgba(231, 212, 202, 1) 35%,
+      rgba(210, 198, 159, 1) 100%;
+  }
+  
+  #div-Management-Control p {
+    color: rgb(199, 180, 150);
+    color: rgba(199, 180, 150, 1) 0%, rgba(231, 212, 202, 1) 35%,
+      rgba(210, 198, 159, 1) 100%;
+  }
+  
+  #Management-Control {
+    width: 385px;
+    min-width: 9%;
+    height: 100%;
+    border-radius: 21px 21px 0 0;
+    background: rgb(199, 180, 150);
+    background: linear-gradient(
+      90deg,
+      rgba(199, 180, 150, 1) 0%,
+      rgba(231, 212, 202, 1) 35%,
+      rgba(210, 198, 159, 1) 100%
+    );
+    overflow: hidden;
+  }
+  
+  #Management-Control h4 {
+    padding-top: 20px;
+    text-decoration: underline;
+    color: rgb(2, 0, 36);
+  }
+  
+  #Management-Control ul {
+    color: rgb(2, 0, 36);
+    padding-right: 45px;
+  }
+  
+  #Management-Control ul li {
+    padding-top: 20px;
+  }
+  
+  #service-buttonF {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(
+      90deg,
+      rgba(2, 0, 36, 1) 0%,
+      rgba(9, 9, 121, 1) 35%,
+      rgba(1, 16, 19, 1) 100%
+    );
+    color: rgba(231, 212, 202, 1);
+    margin-top: 50px;
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  
+  #service-button {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(
+      90deg,
+      rgba(2, 0, 36, 1) 0%,
+      rgba(9, 9, 121, 1) 35%,
+      rgba(1, 16, 19, 1) 100%
+    );
+    color: rgba(231, 212, 202, 1);
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .service-link {
+    color: rgba(231, 212, 202, 1);
+    text-decoration: none;
+  }
+  
+  #services-images1 {
+    width: 350px;
+    height: 200px;
+    object-fit: cover;
+    margin-top: 15px;
+  }
+  
+  #services-images2 {
+    width: 360px;
+    height: 200px;
+    object-fit: cover;
+    margin-top: 15px;
+  }
+  
+  #services-images3 {
+    width: 360px;
+    height: 200px;
+    object-fit: cover;
+    margin-top: 15px;
+  }
+  
+  #Benefits {
+    width: 100%;
+    height: 100%;
+    padding: 0 8%;
+    overflow: hidden;
+  }
+  
+  #Benefits h2 {
+    text-align: center;
+    padding-top: 10%;
+    margin-bottom: 60px;
+    font-weight: 400;
+    position: relative;
+    color: #fff;
+    text-decoration: underline;
+    overflow: hidden;
+  }
+  
+  .Row-b {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-gap: 30px;
+    overflow: hidden;
+  }
+  
+  .B-benefits {
+    text-align: center;
+    padding: 25px 10px;
+    border-radius: 5px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: transform 0.5s, background 0.5s;
+  }
+  
+  .B-benefits h4 {
+    color: #fff;
+    overflow: hidden;
+    font-weight: 600px;
+    margin-bottom: 8px;
+  }
+  
+  .B-benefits p {
+    color: #fff;
+    overflow: hidden;
+  }
+  
+  .B-benefits:hover {
+    background: rgba(231, 212, 202, 1);
+    color: rgb(2, 0, 36);
+    transform: scale(1.05);
+  }
+  
+  .B-benefits:hover .icon-services {
+    color: rgb(2, 0, 36);
+  }
+  
+  .B-benefits:hover h4 {
+    color: rgb(2, 0, 36);
+  }
+  
+  .B-benefits:hover p {
+    color: rgb(2, 0, 36);
+  }
+  
+  .icon-services {
+    color: #fff;
+    font-size: 40px;
+    margin-bottom: 10px;
+  }
+  
+  #cta2-section h2 {
+    font-size: calc(1.325rem + 0.9vw);
+    color: #fff;
+  }
+  
+  #cta2-section p {
+    color: #fff;
+  }
+  
+  .container4 {
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  #cta3-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    overflow: hidden;
+  }
+  
+  #button-cta {
+    background: rgb(199, 180, 150);
+    color: rgb(2, 0, 36);
+  }
+  
+  .call-to-action-link {
+    color: rgb(2, 0, 36);
+    text-decoration: none;
+  }
+  
+  .footerSP {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .footer-textSP p {
+    font-size: 1rem;
+    color: #fff;
+  }
+  
+  /*BreakPoints*/
+  
+  @media (max-width: 1335px) {
+    .footer-textSP p {
+      font-size: 14px;
+    }
+  }
+  
+  @media (max-width: 1316px) {
+    .Row-b {
+      display: block;
+    }
+  
+    .B-benefits {
+      padding: 30px 0;
+    }
+  }
+  
+  @media (max-width: 1245px) {
+    #div-corpanaly p {
+      font-size: 1.17rem !important;
+    }
+  
+    #div-Management-Control h2 {
+      font-size: 2.8rem;
+    }
+  
+    .B-benefits {
+      padding: 25px 20px;
+    }
+  }
+  
+  @media (max-width: 1230px) {
+    #div-corpanaly p {
+      font-size: 1.15rem !important;
+    }
+  
+    #div-consult p {
+      font-size: 1.2rem;
+    }
+  }
+  
+  @media (max-width: 1220px) {
+    .B-benefits {
+      padding: 25px 25px;
+    }
+  }
+  
+  @media (max-width: 1213px) {
+    #div-consult p {
+      font-size: 1.18rem;
+    }
+  
+    #div-corpanaly p {
+      font-size: 1.12rem !important;
+    }
+  
+    #div-Management-Control p {
+      font-size: 1.2rem;
+    }
+  }
+  
+  @media (max-width: 1200px) {
+    .B-benefits {
+      padding: 25px 30px;
+    }
+  }
+  
+  @media (max-width: 1188px) {
+    #div-Management-Control p {
+      font-size: 1.1rem;
+    }
+  }
+  
+  @media (max-width: 1172px) {
+    #div-consult p {
+      font-size: 1.15rem;
+    }
+  }
+  
+  @media (max-width: 1164px) {
+    #div-consult p {
+      font-size: 1.12rem;
+    }
+  
+    #div-corpanaly p {
+      font-size: 1.05rem !important;
+    }
+  }
+  
+  @media (max-width: 1130px) {
+    #div-consult p {
+      font-size: 1.1rem;
+    }
+  }
+  
+  @media (max-width: 1053px) {
+    #div-corpanaly h2 {
+      font-size: 2rem;
+    }
+  
+    #div-consult h2 {
+      font-size: 2rem;
+    }
+  }
+  
+  @media (max-width: 1005px) {
+    #div-Management-Control h2 {
+      font-size: 2.6rem;
+    }
+  }
+  
+  @media (max-width: 991px) {
+    #img-logo2 {
+      margin-right: auto; /* margin auto to center logo */
+      margin-left: auto;
+    }
+  
+    #Logo2 {
+      margin-left: 0;
+      margin-right: 0;
+    }
+  
+    #B-Menu2 {
+      margin-left: -8% !important;
+    }
+  
+    .backg-menu2 {
+      background: rgb(2, 0, 36);
+      background: linear-gradient(
+        90deg,
+        rgba(2, 0, 36, 1) 0%,
+        rgba(9, 9, 121, 1) 35%,
+        rgba(1, 16, 19, 1) 100%
+      );
+    }
+  
+    .offcanvas-title {
+      margin-left: 30%;
+    }
+  
+    .nav-item {
+      padding-top: 20px;
+    }
+  
+    #link-1 {
+      margin-left: 50%;
+    }
+  
+    #link-2 {
+      margin-left: 47%;
+    }
+  
+    #link-3 {
+      margin-left: 46%;
+    }
+  
+    .container4 {
+      width: 550px;
+    }
+  }
+  
+  @media (max-width: 983px) {
+    .Row-b {
+      display: grid;
+    }
+  
+    .B-benefits {
+      padding: 25px 15px;
+    }
+  }
+  
+  @media (max-width: 950px) {
+    /*arrumar a largura dos beneficios*/
+  }
+  
+  @media (max-width: 945px) {
+    #consultory {
+      margin-top: 21%;
+    }
+  }
+  
+  @media (max-width: 943px) {
+    #div-corpanaly p {
+      --max-lines: 9;
+    }
+  }
+  
+  @media (max-width: 935px) {
+    #consultory {
+      margin-left: -5% !important;
+    }
+  }
+  
+  @media (max-width: 913px) {
+    #div-consult p {
+      font-size: 1.1rem;
+    }
+  
+    #div-corpanaly p {
+      font-size: 1rem !important;
+      --max-lines: 10;
+    }
+  
+    #consultory {
+      margin-top: 28%;
+    }
+  
+    #CorporateAnalysis {
+      margin-left: -5% !important;
+    }
+  }
+  
+  @media (max-width: 870px) {
+    #consultory {
+      margin-left: -7% !important;
+    }
+  
+    #CorporateAnalysis {
+      margin-left: -7% !important;
+    }
+  }
+  
+  @media (max-width: 855px) {
+    #div-corpanaly p {
+      --max-lines: 10;
+    }
+  
+    #consultory {
+      margin-top: 26%;
+    }
+  
+    #CorporateAnalysis {
+      margin-top: 0;
+    }
+  }
+  
+  @media (max-width: 850px) {
+    #CorporateAnalysis {
+      margin-left: -12% !important;
+    }
+  }
+  
+  @media (max-width: 845px) {
+    #consultory {
+      width: 355px;
+      padding: 0 15px;
+    }
+  }
+  
+  @media (max-width: 840px) {
+    #div-corpanaly p {
+      margin-left: -12px;
+    }
+  }
+  
+  @media (max-width: 820px) {
+    #CorporateAnalysis {
+      width: 375px;
+    }
+  
+    #services-images2 {
+      width: 350px;
+    }
+  }
+  
+  @media (max-width: 800px) {
+    #consultory {
+      margin-left: -9% !important;
+    }
+  
+    #CorporateAnalysis {
+      margin-left: -16% !important;
+    }
+  }
+  
+  @media (min-width: 768px) {
+    h2 {
+      font-size: 50px;
+      letter-spacing: 2px;
+      margin: 15px 0;
+      overflow: hidden;
+      color: #fff;
+      display: block;
+    }
+  }
+  
+  @media (max-width: 767px) {
+    #div-consult {
+      /*para arrumar não precisa de muita 
+      é coisa é so definir:*/
+  
+      width: 100%;
+    }
+  
+    #div-consult h2 {
+      font-size: 2.6rem;
+    }
+  
+    #div-consult p {
+      margin-top: 0;
+      max-width: none;
+      margin-left: 0 !important;
+      --max-lines: none;
+    }
+  
+    #div-corpanaly {
+      width: 100%;
+    }
+  
+    #div-corpanaly h2 {
+      font-size: 2.6rem;
+    }
+  
+    #div-corpanaly p {
+      font-size: 1.1rem !important;
+      margin-top: 0;
+      --max-lines: none;
+    }
+  
+    #consultory {
+      margin-top: 0;
+      margin-left: auto !important;
+    }
+  
+    #CorporateAnalysis {
+      margin-top: 0;
+      margin-left: auto !important;
+    }
+  }
+  
+  @media (max-width: 732px) {
+    #B-Menu2 {
+      margin-left: -10% !important;
+    }
+  }
+  
+  @media (max-width: 590px) {
+    .container4 {
+      width: 410px;
+    }
+  }
+  
+  @media (max-width: 575px) {
+    #service-button {
+      width: 200px;
+      margin-left: auto;
+      margin-right: auto;
+      padding-right: 20px;
+    }
+  
+    #service-buttonF {
+      width: 200px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  
+    #button-cta {
+      width: 200px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  
+    #E-button {
+      width: 200px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
+  
+  @media (max-width: 572px) {
+    #B-Menu2 {
+      margin-left: -12% !important;
+    }
+  }
+  
+  @media (max-width: 450px) {
+    .container4 {
+      width: 380px;
+    }
+  }
+  
+  @media (max-width: 430px) {
+    .footer-textSP p {
+      font-size: 12px;
+    }
+  }
+  
+  @media (max-width: 425px) {
+    #Management-Control {
+      margin-left: -5% !important;
+    }
+  }
+  
+  @media (max-width: 410px) {
+    #CorporateAnalysis {
+      margin-left: -3% !important;
+    }
+  }
+  
+  @media (max-width: 405px) {
+    .container4 {
+      width: 350px;
+    }
+  }
+  
+  @media (max-width: 393px) {
+    .container4 {
+      width: 320px;
+    }
+  
+    #CorporateAnalysis {
+      margin-left: -5% !important;
+      width: 370px;
+    }
+  
+    #services-images2 {
+      width: 335px;
+    }
+  
+    #Management-Control {
+      width: 375px;
+    }
+  
+    #services-images3 {
+      width: 340px;
+      padding-right: 10px;
+    }
+  }
