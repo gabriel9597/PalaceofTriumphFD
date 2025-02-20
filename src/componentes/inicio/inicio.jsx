@@ -163,14 +163,10 @@ function Inicio() {
 
             <div className="col-lg-6">
               <h1 className="display-5 fw-bold py-1">
-                Responsive left-aligned hero with image
+                Análise Técnica
               </h1>
               <p className="lead" id="p1">
-                Quickly design and customize responsive mobile-first sites with
-                Bootstrap, the world’s most popular front-end open source
-                toolkit, featuring Sass variables and mixins, responsive grid
-                system, extensive prebuilt components, and powerful JavaScript
-                plugins.
+                Em Conjunto com os Dados Existentes, Nossos Profissionais irão Realizar uma Análise Profunda Visando Compreender os Erros que estão sendo Cometidos, os Gastos Desnecessários e as Estratégias Erradas, Que estejam Atrapalhando o Crescimento e o Sucesso da Empresa, Além de Formular as Soluções a serem Tomadas
               </p>
               <div className="d-grid gap-2 d-md-flex justify-content-md-start">
                 <button
@@ -199,14 +195,10 @@ function Inicio() {
           <div className="row flex-lg-row-reverse align-items-center g-5 pt-3">
             <div className="col-lg-6">
               <h1 className="display-5 fw-bold py-1">
-                Responsive left-aligned hero with image
+                Performance
               </h1>
               <p className="lead" id="p2">
-                Quickly design and customize responsive mobile-first sites with
-                Bootstrap, the world’s most popular front-end open source
-                toolkit, featuring Sass variables and mixins, responsive grid
-                system, extensive prebuilt components, and powerful JavaScript
-                plugins.
+               O Ponto-Chave que sua Empresa terá Atuando Junto Conosco será a Melhora da Performance de seu Negócio como um todo, Desde a Melhora nos Quadros de Funcionários, Metas Atingidas e Lucros Obtidos, Além de Outros Resultados Obtidos que ela Terá
               </p>
               <div className="d-grid gap-2 d-none d-sm-block d-xs-none d-sm-none d-md-none d-lg-block d-md-flex justify-content-md-end">
                 <button
@@ -273,14 +265,10 @@ function Inicio() {
 
             <div className="col-lg-6">
               <h1 className="display-5 fw-bold py-1">
-                Responsive left-aligned hero with image
+                Resultados
               </h1>
               <p className="lead" id="p3">
-                Quickly design and customize responsive mobile-first sites with
-                Bootstrap, the world’s most popular front-end open source
-                toolkit, featuring Sass variables and mixins, responsive grid
-                system, extensive prebuilt components, and powerful JavaScript
-                plugins.
+                O Principal Benefício que se é Constatado por Todas as Empresas que Contaram com os Nossos Serviços Foram a Melhora nos Resultados em Todos os Setores do Negócio, Devido as Mudanças que Foram Feitas por Causa do Trabalho de Nossa Equipe na Apuração do que Se Devia Aprimorar e Corrigir nos Procedimentos e Estratégias da Empresa para a Melhora Não Só dos Lucros, Mas Também da Eficiência e Bem-Estar dos Funcionários, no Corte de Custos Desnecessários E Na Melhoria da Marca como um Todo
               </p>
               <div className="d-grid gap-2 d-md-flex justify-content-md-start">
                 <button type="button" className="btn btn-lg px-4" id="botaoS-3">
@@ -340,16 +328,13 @@ function Inicio() {
                   <div id="aside">
                     <p>
                       <FaQuoteLeft className="testimonial-icon" />
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                      Rerum ducimus numquam tempora odit quisquam nostrum cum
-                      consequatur itaque facere neque laborum quam voluptatum
-                      mollitia quas repellat placeat voluptatem, fugiat sunt.
+                      Só Tenho a Agradeçer aos Profissionais do Palácio Do Triunfo Por Me Ajudar a Melhorar as Partes que não Rendiam na Empresa e que Atrapalhavam o Crescimento Dela, Agora Devido a Ajuda Deles Consegui Encontrar a Solução para Esses Problemas, Melhorar Meus Lucros e Aumentar o Espaço de Minha Empresa no Ramo da Construção Civil
                       <FaQuoteRight className="testimonial-icon2" />
                     </p>
 
                     <div id="name">
-                      <h4>Henry Cage</h4>
-                      <p>Owner of the Construction Empire</p>
+                      <h4>Henry Santos</h4>
+                      <p>Dono da High7 Construtora</p>
                     </div>
                   </div>
                 </div>
