@@ -221,7 +221,7 @@ function Contact() {
         >
           <div className="footer-textThp">
             <p>
-              Copyright &copy; 2023 by Palace of Triumph | All Rights Reserved
+              Copyright &copy; 2025 by Palace of Triumph | All Rights Reserved
             </p>
           </div>
         </motion.footer>
