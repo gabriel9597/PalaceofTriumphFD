@@ -84,7 +84,7 @@ function Inicio() {
                         id="Botoes-Menu"
                         className="nav-link active bg-transparent"
                       >
-                        Home
+                        Início
                       </Link>
                     </li>
 
