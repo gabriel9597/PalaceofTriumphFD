@@ -263,7 +263,7 @@ function Inicio() {
               </div>
             </div>
 
-            <div className="col-lg-6">
+            <div className="col-lg-6" id="rced-to-sts">
               <h1 className="display-5 fw-bold py-1">
                 Resultados
               </h1>
