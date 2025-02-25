@@ -192,7 +192,7 @@ function Inicio() {
           className="container col-xxl-12 col-xl-12 pt-5"
           id="solucoesM"
         >
-          <div className="row flex-lg-row-reverse align-items-center g-5 pt-3">
+          <div className="row flex-lg-row-reverse align-items-center pt-3">
             <div className="col-lg-6">
               <h1 className="display-5 fw-bold py-1">
                 Performance
@@ -247,7 +247,7 @@ function Inicio() {
           className="container col-xxl-12 col-xl-12 pt-5"
           id="solucoes3"
         >
-          <div className="row flex-lg-row-reverse align-items-center g-5 pt-3">
+          <div className="row flex-lg-row-reverse align-items-center pt-3">
             <div className="col-12 col-sm-12 col-md-10 col-lg-6">
               <div className="container3">
                 <div className="border-image2"></div>
