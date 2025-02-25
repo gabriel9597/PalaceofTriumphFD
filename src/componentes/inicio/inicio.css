@@ -297,7 +297,7 @@
   
   .border-image2 {
     background: #fff;
-    margin-left: 25px;
+    margin-left: 12px;
     top: 35px;
   }
   
@@ -721,11 +721,11 @@
       position: absolute;
     }
   
-    .border-image2 {
+    /*.border-image2 {
       background: #fff;
       margin-left: 25px;
       top: 35px;
-    }
+    }*/
   
     .img-2 {
       left: 0px;
@@ -831,6 +831,10 @@
       width: 95%;
       height: 75%;
       position: absolute;
+    }
+
+    .border-image2 {
+      margin-left: 25px;
     }
   
     .container2 {
