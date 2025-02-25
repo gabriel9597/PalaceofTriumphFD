@@ -228,7 +228,7 @@ function Inicio() {
               </div>
             </div>
 
-            <div className="d-grid gap-2 d-lg-none">
+            <div className="d-grid gap-2 d-lg-none" id="btn-explore">
               <button type="button" className="btn btn-lg px-4" id="botaoS-4">
                 <Link id="image-link" to="/Services">
                   Explore!
