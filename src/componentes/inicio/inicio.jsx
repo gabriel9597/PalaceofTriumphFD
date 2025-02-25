@@ -270,7 +270,7 @@ function Inicio() {
               <p className="lead" id="p3">
                 O Principal Benefício que se é Constatado por Todas as Empresas que Contaram com os Nossos Serviços Foram a Melhora nos Resultados em Todos os Setores do Negócio, Devido as Mudanças que Foram Feitas por Causa do Trabalho de Nossa Equipe na Apuração do que Se Devia Aprimorar e Corrigir nos Procedimentos e Estratégias da Empresa para a Melhora Não Só dos Lucros, Mas Também da Eficiência e Bem-Estar dos Funcionários, no Corte de Custos Desnecessários E Na Melhoria da Marca como um Todo
               </p>
-              <div className="d-grid gap-2 d-md-flex justify-content-md-start">
+              <div className="d-grid gap-2 d-md-flex justify-content-md-start" id="btn-explore">
                 <button type="button" className="btn btn-lg px-4" id="botaoS-3">
                   <Link id="image-link" to="/Services">
                     Explore!
