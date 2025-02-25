@@ -1189,7 +1189,10 @@
     .container5 {
       width: 350px;
     }
-  }
+
+     #solucoesM .pt-5 {
+       margin-top: 1.2rem !important
+    }
   
   @media (max-width: 406px) {
     #B-Menu {
