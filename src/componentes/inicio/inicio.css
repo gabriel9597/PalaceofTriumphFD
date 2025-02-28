@@ -1089,6 +1089,12 @@
     .container5 {
       width: 380px;
     }
+
+     #test #aside #name {
+      position: relative;
+      width: fit-content;
+      line-height: 1.2;
+    }
   }
   
   @media (max-width: 445px) {
