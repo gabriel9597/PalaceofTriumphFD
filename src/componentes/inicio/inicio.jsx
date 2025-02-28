@@ -294,7 +294,6 @@ function Inicio() {
           <div id="T-Testimonials">Satisfações Geradas</div>
         </div>
 
-        {/*slider que funciona */}
         <div id="carouselExampleCaptions" className="carousel slide ">
           <div id="test">
             <div class="carousel-indicators">
@@ -414,8 +413,6 @@ function Inicio() {
           </div>
         </div>
       </motion.div>
-
-      {/* fim do slider que funciona */}
 
       <hr className="featurette-divider" id="divider3" />
 
