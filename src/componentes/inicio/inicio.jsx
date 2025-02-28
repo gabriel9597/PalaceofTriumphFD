@@ -4,6 +4,7 @@ import "./inicio.css";
 import Videobg from "../../Assets/BackgroundVideo1.mp4";
 import Logo from "../../Assets/PalaceOfTriumphlogotransparente.png";
 import imagem1 from "../../Assets/image1.jpeg";
+
 import imagem2 from "../../Assets/image2.jpeg";
 import imagem3 from "../../Assets/image3.jpeg";
 import VersalhesPalace from "../../Assets/palacio_de_versalhes.jpg";
