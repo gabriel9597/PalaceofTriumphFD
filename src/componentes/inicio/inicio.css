@@ -985,18 +985,12 @@
   }
   
   @media (max-width: 545px) {
-    #botaoS-1 {
-      width: 250px;
-    }
-  
+    #botaoS-1,
+    #botaoS-3,
     #botaoS-4 {
       width: 250px;
     }
-  
-    #botaoS-3 {
-      width: 250px;
-    }
-  
+      
     #discover-button {
       width: 250px;
     }
