@@ -1201,9 +1201,10 @@
        margin-top: 1.2rem !important
     }
 
-      #solucoesM #btn-explore {
-        margin-top: -50px;
-      }
+     #solucoesM #btn-explore {
+       margin-top: -50px;
+    }
+  }
   
   @media (max-width: 406px) {
     #B-Menu {
