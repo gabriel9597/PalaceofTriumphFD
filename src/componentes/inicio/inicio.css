@@ -308,15 +308,10 @@
     overflow: hidden;
   }
   
-  #p1 {
-    border: 0;
-  }
-  
-  #p2 {
-    border: 0;
-  }
-  
-  #p3 {
+  #p1,
+  #p2,
+  #p3
+    {
     border: 0;
   }
   
