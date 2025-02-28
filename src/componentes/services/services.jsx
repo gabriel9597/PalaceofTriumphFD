@@ -4,6 +4,7 @@ import "./services.css";
 import Logo from "../../Assets/PalaceOfTriumphlogotransparente.png";
 import { FaBars } from "react-icons/fa6";
 import ImageBg from "../../Assets/bannerservpot2.jpg";
+
 import ImageConsul from "../../Assets/imageconsultpot1.jpg";
 import ImageAnaCorp from "../../Assets/imageanalisecorppot1.jpg";
 import ImageMagControl from "../../Assets/imagemagcontrolpot1.jpg";
