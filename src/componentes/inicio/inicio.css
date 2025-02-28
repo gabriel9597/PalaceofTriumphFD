@@ -353,36 +353,9 @@
     margin-top: -10px;
   }
   
-  #botaoS-1 {
-    background: rgb(199, 180, 150);
-    background: linear-gradient(
-      90deg,
-      rgba(199, 180, 150, 1) 0%,
-      rgba(231, 212, 202, 1) 35%,
-      rgba(210, 198, 159, 1) 100%
-    );
-  }
-  
-  #botaoS-2 {
-    background: rgb(199, 180, 150);
-    background: linear-gradient(
-      90deg,
-      rgba(199, 180, 150, 1) 0%,
-      rgba(231, 212, 202, 1) 35%,
-      rgba(210, 198, 159, 1) 100%
-    );
-  }
-  
-  #botaoS-3 {
-    background: rgb(199, 180, 150);
-    background: linear-gradient(
-      90deg,
-      rgba(199, 180, 150, 1) 0%,
-      rgba(231, 212, 202, 1) 35%,
-      rgba(210, 198, 159, 1) 100%
-    );
-  }
-  
+  #botaoS-1,
+  #botaoS-2,
+  #botaoS-3,
   #botaoS-4 {
     background: rgb(199, 180, 150);
     background: linear-gradient(
